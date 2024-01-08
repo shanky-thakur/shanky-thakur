@@ -5,6 +5,7 @@
 ![Viewer](https://komarev.com/ghpvc/?username=shanky-thakur&color=red)
 - **My [Portfolio](https://shanky-thakur.netlify.app) 💼**
 - **Connect with me on [LinkedIn](https://www.linkedin.com/in/deepanshu-thakur-92a17a262/)**
+- **Visit my [Leetcode](https://leetcode.com/shanky_thakur/)**
 <br/>
 <p>
 <img src="https://github-readme-stats-chi-tan.vercel.app/api/top-langs/?username=shanky-thakur&langs_count=10&layout=compact&theme=dark&hide_border=true" width="40%" />
