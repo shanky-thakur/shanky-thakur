@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shanky Thakur</h1>
-<h3 align="center">MERN Flutter and Swing app developer</h3>
+<h1 align="center">Hi 👋, I'm Deepanshu Thakur</h1>
+<h3 align="center">MERN Spring Boot and Swing app developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shanky-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="shanky-thakur" /> </p>
 
