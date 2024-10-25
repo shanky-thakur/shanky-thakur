@@ -1,29 +1,67 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Thakur</h1>
-<h3 align="center">MERN Spring Boot and Swing app developer</h3>
+# 👋 Hi, I'm Deepanshu Thakur! 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanky-thakur&label=Profile%20views&color=0e75b6&style=flat" alt="shanky-thakur" /> </p>
+## 🚀 About Me  
+I'm a **Backend Developer** specializing in the **MERN Stack** and **Java-based technologies**. I thrive on solving complex problems, building scalable applications, and learning new tools to enhance my development journey. Whether it’s backend APIs, Swing apps, or React projects, I aim to deliver solutions that combine functionality with simplicity. 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shanky-thakur" alt="shanky-thakur" /></a> </p>
+- 🌱 **Currently Learning**: Advanced backend integrations, real-time communication with **Socket.io**, and cloud infrastructure.  
+- 👨‍💻 **Development Focus**: Node.js, Express.js, MongoDB, and Spring Boot.  
+- 💬 **Ask Me About**: **Java, MERN stack, Swing Apps**, and **API Development**.  
+- 🎸 **Hobbies**: Playing guitar, singing, and writing about philosophy and tech.  
 
-- 👨‍💻 All of my projects are available at [https://shanky-thakur.netlify.app/](https://shanky-thakur.netlify.app/)
+---
 
-- 📝 I regularly write articles on [https://shanky-blogs.netlify.app/](https://shanky-blogs.netlify.app/)
+## 🔥 Projects & Portfolio  
+Explore my complete list of projects and get to know what I’ve built so far on my [Portfolio](https://shanky-thakur.netlify.app).  
+I also write about tech trends, development tips, and personal thoughts on my [Blog](https://shanky-blogs.netlify.app).  
 
-- 💬 Ask me about **Java, MERN, Swing**
+---
 
-- 📫 How to reach me **thakurdeepanshu420@gmail.com**
+## 🛠️ Tools & Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shanky-thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanky-thakur" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shanky_thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shanky_thakur/" height="30" width="40" /></a>
-</p>
+### **Programming Languages**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+### **Frameworks & Libraries**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanky-thakur&show_icons=true&locale=en&layout=compact" alt="shanky-thakur" /></p>
+### **Databases & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanky-thakur&show_icons=true&locale=en" alt="shanky-thakur" /></p>
+### **Version Control & CI/CD**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shanky-thakur&" alt="shanky-thakur" /></p>
+---
+
+## 📈 GitHub Stats  
+![Shanky's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanky-thakur&show_icons=true&theme=dark)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-thakur&layout=compact&theme=dark)](https://github.com/shanky-thakur)
+
+---
+
+## 📬 How to Reach Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thakurdeepanshu420@gmail.com)
+
+---
+
+## ⚡ Fun Fact  
+When I’m not coding, I enjoy making music 🎶 and delving into philosophy books 📚. Life is all about balancing code and creativity!
+
+---
+
+## 🎯 Future Goals  
+- Work on **AI-powered backend systems**.  
+- Contribute to **open-source projects**.  
+- Build a personal **programming language** (just for fun!).  
+
+---
+
+Thank you for visiting my GitHub! Feel free to connect or collaborate on projects. 🚀
