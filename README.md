@@ -6,7 +6,7 @@ I'm a **Backend Developer** specializing in the **MERN Stack** and **Java-based 
 - 🌱 **Currently Learning**: Advanced backend integrations, real-time communication with **Socket.io**, and cloud infrastructure.  
 - 👨‍💻 **Development Focus**: Node.js, Express.js, MongoDB, and Spring Boot.  
 - 💬 **Ask Me About**: **Java, MERN stack, Swing Apps**, and **API Development**.  
-- 🎸 **Hobbies**: Playing guitar, singing, and writing about philosophy and tech.  
+- 🎸 **Hobbies**: Playing flute, singing, and writing about philosophy and tech.  
 
 ---
 
