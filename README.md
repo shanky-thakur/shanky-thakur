@@ -1,18 +1,28 @@
 # 👋 Hi, I'm Deepanshu Thakur! 
 
 ## 🚀 About Me  
-I'm a **Backend Developer** specializing in the **MERN Stack** and **Java-based technologies**. I thrive on solving complex problems, building scalable applications, and learning new tools to enhance my development journey. Whether it’s backend APIs, Swing apps, or React projects, I aim to deliver solutions that combine functionality with simplicity. 
+I'm a **Backend Developer** with expertise in the **MERN Stack** and **Java-based technologies**. I enjoy solving complex coding challenges, building scalable applications, and constantly learning new technologies. Beyond development, I'm a creative soul with a love for music, philosophy, and writing.  
 
-- 🌱 **Currently Learning**: Advanced backend integrations, real-time communication with **Socket.io**, and cloud infrastructure.  
-- 👨‍💻 **Development Focus**: Node.js, Express.js, MongoDB, and Spring Boot.  
-- 💬 **Ask Me About**: **Java, MERN stack, Swing Apps**, and **API Development**.  
-- 🎸 **Hobbies**: Playing flute, singing, and writing about philosophy and tech.  
+- 🌱 **Currently Learning**: Advanced backend systems, real-time communication using **Socket.io**, and cloud technologies.  
+- 👨‍💻 **Development Focus**: Node.js, Express, MongoDB, Spring Boot, and Java.  
+- 💬 **Ask Me About**: Java, API development, MERN stack, and backend infrastructure.  
+- 🎸 **Hobbies**: Playing the guitar, singing, and diving into philosophy books.
+
+---
+
+## 🏆 Achievements  
+
+- 🎯 **Finalist in 2024 and Semi-Finalist in 2023** – *TechGig Code Gladiators Contest*  
+- 💪 Solved **800+ coding questions** across **LeetCode, GeeksforGeeks, and InterviewBit**.  
+- 💼 Completed the **Accenture Developer Program** on Forage.  
+- 🏢 Worked as a **Backend Developer at Shishya**, a DTU IIF startup supported by DTU USIP.
 
 ---
 
 ## 🔥 Projects & Portfolio  
-Explore my complete list of projects and get to know what I’ve built so far on my [Portfolio](https://shanky-thakur.netlify.app).  
-I also write about tech trends, development tips, and personal thoughts on my [Blog](https://shanky-blogs.netlify.app).  
+Check out my projects and portfolio at:  
+**🌐 Portfolio**: [Portfolio](https://shanky-thakur.netlify.app)  
+**📝 Blog**: [Blog](https://shanky-blogs.netlify.app)
 
 ---
 
@@ -46,7 +56,7 @@ I also write about tech trends, development tips, and personal thoughts on my [B
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-thakur&layout=compact&theme=dark)](https://github.com/shanky-thakur)  
 
 ### 📊 Contribution Graph  
-[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shanky-thakur&theme=react-dark)](https://github.com/shanky-thakur)
+[![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanky-thakur&theme=react-dark)](https://github.com/shanky-thakur)
 
 ---
 
@@ -57,15 +67,15 @@ I also write about tech trends, development tips, and personal thoughts on my [B
 ---
 
 ## ⚡ Fun Fact  
-When I’m not coding, I enjoy making music 🎶 and delving into philosophy books 📚. Life is all about balancing code and creativity!
+When I’m not coding, I enjoy making music 🎶 and reflecting on life through philosophy 📚. I believe creativity fuels innovation in code and beyond!
 
 ---
 
 ## 🎯 Future Goals  
-- Work on **AI-powered backend systems**.  
-- Contribute to **open-source projects**.  
-- Build a personal **programming language** (just for fun!).  
+- Build AI-powered backend systems.  
+- Contribute actively to open-source projects.  
+- Create my own programming language as a fun side project!
 
 ---
 
-Thank you for visiting my GitHub! Feel free to connect or collaborate on projects. 🚀
+Thank you for visiting my GitHub! Feel free to connect, collaborate, or just say hi. 🚀
