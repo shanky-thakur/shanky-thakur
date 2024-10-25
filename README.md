@@ -41,8 +41,12 @@ I also write about tech trends, development tips, and personal thoughts on my [B
 ---
 
 ## 📈 GitHub Stats  
+
 ![Shanky's GitHub stats](https://github-readme-stats.vercel.app/api?username=shanky-thakur&show_icons=true&theme=dark)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-thakur&layout=compact&theme=dark)](https://github.com/shanky-thakur)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shanky-thakur&layout=compact&theme=dark)](https://github.com/shanky-thakur)  
+
+### 📊 Contribution Graph  
+[![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=shanky-thakur&theme=react-dark)](https://github.com/shanky-thakur)
 
 ---
 
